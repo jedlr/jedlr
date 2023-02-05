@@ -1,4 +1,6 @@
-### Hello! I'm ✨ Johana De La Rosa ✨ (she/her)
+### Hello! I'm Johana De La Rosa (she/her)
+
+✨ [![](https://img.shields.io/badge/-linkedin-ff69b4)](https://www.linkedin.com/in/jed2192/) ✨
 
 🦁 Computer Science undergrad student @ Columbia University  C/O 2024
 
@@ -6,7 +8,6 @@
 
 💻 Currently learning more about open source development!
 
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg)](https://www.linkedin.com/in/jed2192/) 
 
 <!-- 
 **jedlr/jedlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
