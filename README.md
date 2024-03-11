@@ -6,7 +6,7 @@
 
 🎨 Interested in UI/UX, journaling, art, and music 
 
-💻 Currently learning more about open source development!
+💻 Currently learning more about developing accessible UI!
 
 
 <!-- 
