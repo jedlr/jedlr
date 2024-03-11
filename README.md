@@ -4,7 +4,7 @@
 
 🦁 Computer Science undergrad student @ Columbia University  C/O 2024
 
-🎨 Interested in journaling, art, and music 
+🎨 Interested in UI/UX, journaling, art, and music 
 
 💻 Currently learning more about open source development!
 
