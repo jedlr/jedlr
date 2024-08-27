@@ -1,25 +1,10 @@
-### Hello! I'm Johana De La Rosa (she/her)
+### Hi!! I'm Johana De La Rosa (she/her)
 
 ✨ [![](https://img.shields.io/badge/-linkedin-ff69b4)](https://www.linkedin.com/in/jed2192/) ✨
 
-🦁 Computer Science undergrad student @ Columbia University  C/O 2024
+🦁 Columbia University C/O 2024, Computer Science + Psychology
 
 🎨 Interested in UI/UX, journaling, art, and music 
 
-💻 Currently learning more about developing accessible UI!
+💻 Passionate about developing accessible UI!
 
-
-<!-- 
-**jedlr/jedlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
