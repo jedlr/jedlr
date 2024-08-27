@@ -2,7 +2,7 @@
 
 ✨ [![](https://img.shields.io/badge/-linkedin-ff69b4)](https://www.linkedin.com/in/jed2192/) ✨
 
-🦁 Columbia University C/O 2024, Computer Science + Psychology
+🦁 Columbia University 2024, Computer Science + Psychology
 
 🎨 Interested in UI/UX, journaling, art, and music 
 
